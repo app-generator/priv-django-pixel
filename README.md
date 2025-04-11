@@ -16,28 +16,6 @@ The product is designed to deliver the best possible user experience with highly
  
 <br />
 
-### Customize with [Django App Generator - Pixel UI KIT](https://app-generator.dev/tools/django-generator/pixel/)
-
-- Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
-- Select **Pixel UI Kit** as the preferred design
-- (Optional) Design Database: edit models and fields
-- (Optional) Edit the fields for the extended user model
-- (Optional) Enable OAuth for GitHub
-- (Optional) Add Celery (async tasks)
-- (Optional) Enable Dynamic API Module
-- Docker Scripts
-- Render CI/Cd Scripts
-
-**The generated Django project is available as a ZIP Archive and also uploaded to GitHub.**
-
-<br />
-
-## Deploy on `Render` (free plan)
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
-<br /> 
-
 ## Features
 
 - Simple, Easy-to-Extend Codebase
@@ -52,6 +30,12 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
+## Deploy on `Render` (free plan)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
+<br /> 
+
 ## [Pixel PRO Version](https://app-generator.dev/product/pixel-bootstrap-pro/django/)
 
 > The premium version provides more features, priority on support, and is more often updated - [Live Demo](https://django-pixel-enh.appseed-srv1.com/).
@@ -65,6 +49,26 @@ The product is designed to deliver the best possible user experience with highly
 - CI/CD integration for Render 
 
 ![Django Pixel PRO - Premium Django Starter](https://user-images.githubusercontent.com/51070104/168760719-f0e45406-2b2a-43e0-badf-fa953edb62b8.png)
+
+<br />
+
+## `Customize` with [Django App Generator](https://app-generator.dev/tools/django-generator/)
+
+- Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
+- Select the preferred design
+- (Optional) Design Database: edit models and fields
+- (Optional) Edit the fields for the extended user model
+- (Optional) Enable OAuth for GitHub
+- (Optional) Add Celery (async tasks)
+- (Optional) Enable Dynamic API Module
+- Docker Scripts
+- Render CI/Cd Scripts
+
+**The generated Django project is available as a ZIP Archive and also uploaded to GitHub.**
+
+![Django Generator - User Interface for choosing the Design](https://github.com/user-attachments/assets/b989c434-1c53-49ff-8dda-b46dbfc142ac) 
+
+![Django App Generator - User Interface for Edit the Extended User Model](https://github.com/user-attachments/assets/f1a5fb68-a5ba-49c9-a3ae-91716de09912) 
 
 <br />
 
