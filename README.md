@@ -1,18 +1,18 @@
 
 # [Django Pixel](https://app-generator.dev/product/pixel-bootstrap/django/)
 
-Open-source **Django** project crafted on top of **Pixel UI**, an open-source iconic `Bootstrap` design actively supported by Themesberg.
-The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
+**Django** project crafted on top of **Pixel UI**, an open-source iconic `Bootstrap` design actively supported by Themesberg.
+The product is designed to deliver the best possible user experience with highly customizable, feature-rich pages. 
 
 - 👉 [Django Pixel](https://app-generator.dev/product/pixel-bootstrap/django/) - `Product Page`
 - 👉 [Django Pixel](https://django-pixel.onrender.com) - `LIVE Demo` 
-- 👉 [Django Pixel Documentation](https://app-generator.dev/docs/products/django/pixel/index.html) - `Complete Information` and Support Links
-  - [Getting Started with Django](https://app-generator.dev/docs/technologies/django/index.html) - a `comprehensive tutorial`
-  - `Configuration`: Install Tailwind/Flowbite, Prepare Environment, Setting up the Database 
-  - `Start with Docker`
-  - `Manual Build`
-  - `Start the project`
-  - `Deploy on Render`
+- 👉 [Django Pixel Documentation](https://app-generator.dev/docs/products/django/pixel/index.html) - `Documentation`
+ 
+<br />
+
+## LICENSE 
+
+> The **product is available for [Subscribers ONLY](https://app-generator.dev/terms/)**. For more information and products, feel free to access the [App-Generator](https://app-generator.dev/) platform.
  
 <br />
 
@@ -52,25 +52,5 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-## `Customize` with [Django App Generator](https://app-generator.dev/tools/django-generator/)
-
-- Access the [App Generator](https://app-generator.dev/tools/django-generator/) page
-- Select the preferred design
-- (Optional) Design Database: edit models and fields
-- (Optional) Edit the fields for the extended user model
-- (Optional) Enable OAuth for GitHub
-- (Optional) Add Celery (async tasks)
-- (Optional) Enable Dynamic API Module
-- Docker Scripts
-- Render CI/Cd Scripts
-
-**The generated Django project is available as a ZIP Archive and also uploaded to GitHub.**
-
-![Django Generator - User Interface for choosing the Design](https://github.com/user-attachments/assets/b989c434-1c53-49ff-8dda-b46dbfc142ac) 
-
-![Django App Generator - User Interface for Edit the Extended User Model](https://github.com/user-attachments/assets/f1a5fb68-a5ba-49c9-a3ae-91716de09912) 
-
-<br />
-
 ---
-[Django Pixel](https://app-generator.dev/product/pixel-bootstrap/django/) - Open-Source **Django** Starter provided by [App Generator](https://app-generator.dev).
+[Django Pixel](https://app-generator.dev/product/pixel-bootstrap/django/) - **Django** Starter provided by [App Generator](https://app-generator.dev).
